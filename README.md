@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Fahim Ullah and I'm an AI Engineer & Machine Learning Developer from Pakistan 🇵🇰</h2>
+<h2 align="left">Hi 👋! My name is Fahim Ullah and I'm an AI Engineer from Pakistan 🇵🇰</h2>
 
 ###
 
